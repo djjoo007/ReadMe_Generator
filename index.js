@@ -19,9 +19,13 @@ const questions = [
     message: 'Please write the Table of Contents.'
 }, {
     type: 'input',
-    name: 'installation'
-    message: 'Please add the installation instructions.'
-}
+    name: 'installation',
+    message: 'Please add installation instructions here.'
+}, {
+    type: 'input',
+    name: 'usage',
+    message: 'Please add the usage information here.'
+},
 ];
 
 // function to write README file

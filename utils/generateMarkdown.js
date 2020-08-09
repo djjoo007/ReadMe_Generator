@@ -3,7 +3,12 @@ function generateMarkdown(data) {
   return `# ${data.title}
   ### description
   ${data.description}
-
+  ### tableOfContents
+  ${data.table}
+  ### installation
+  ${data.installation}
+  ### usage
+  ${data.usage}
 `;
 }
 

@@ -4,8 +4,10 @@ When creating an open source project on GitHub, it is important to have a qualit
 
 Your task is to create a command-line application that dynamically generates a professional README.md from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). Review the [Good README guide](../../01-HTML-Git-CSS/04-Supplemental/Good-README-Guide/README.md) as a reminder of everything that a quality, professional README contains. The application will be invoked with the following command:
 
-```
+https://www.npmjs.com/package/inquirer
+
 node index.js
+Inquirer.js
 
 Command-Line Application that accepts user input
 Will prompt information about application repository

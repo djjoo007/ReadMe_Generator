@@ -8,11 +8,19 @@ const questions = [
 {
     type: 'input',
     name: 'title',
-    message: 'What would like your title to be?'
+    message: 'Please write the title of the project.'
 }, {
     type: 'input',
     name: 'description',
-    message: 'Please write a short description of your project.'
+    message: 'Please write a short description of the project.'
+}, {
+    type: 'input',
+    name: 'table',
+    message: 'Please write the Table of Contents.'
+}, {
+    type: 'input',
+    name: 'installation'
+    message: 'Please add the installation instructions.'
 }
 ];
 

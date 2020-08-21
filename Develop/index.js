@@ -62,7 +62,7 @@ return fs.writeFileSync(path.join(process.cwd(), fileName), data);
 function init() {
 inquirer.prompt(questions)
 .then(answers =>{
-    console.log("Please wait the file is being generated.");
+    console.log("Your README.md file has been successfully generated.");
     writeToFile('README.md', generateMarkdown({
         ...answers
     }))

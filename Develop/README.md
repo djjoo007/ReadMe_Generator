@@ -1,10 +1,10 @@
-# readme generator
+# ReadMe Generator
   ### Description
-  automated readme geneator
+  info
   ### Table Of Contents
-  n/a
+  info
   ### Installation
-  run index.js
+  info
   ### Usage
   info
   ### License
@@ -15,3 +15,5 @@
   info
   ### Questions
   info
+  info
+  infi

@@ -62,11 +62,11 @@ return fs.writeFileSync(path.join(process.cwd(), fileName), data);
 function init() {
 inquirer.prompt(questions)
 .then(answers =>{
-    console.log("Your README.md file has been successfully generated.");
+    console.log("Your README.md file has been generated successfully.");
     writeToFile('README.md', generateMarkdown({
         ...answers
-    }))
-})
+    }));
+});
 }
 
 // function call to initialize program

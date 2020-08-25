@@ -1,19 +1,26 @@
-# ReadMe Generator
+# README Generator
   ### Description
-  info
+  Automatically creates README.md file.
+
   ### Table Of Contents
   info
+
   ### Installation
   info
+
   ### Usage
   info
+
   ### License
   info
+
   ### Contributing
   info
+
   ### Tests
   info
+  
   ### Questions
   info
   info
-  infi
+  info

@@ -1,9 +1,9 @@
-# README Generator (Unit 09 Node.js and ES6+)
+# README Generator (Node.js and ES6+)
 
-### Usage
+## Usage
 This command-line application will automatically generate a README.md file once the user answers all prompted questions.
 
-### Installation
+## Installation
 - Utilize Node.js Terminal
 
 - Within the working directory, run the following command:
@@ -11,10 +11,16 @@ This command-line application will automatically generate a README.md file once 
 
 - Answer all the prompted Questions
 
-### Link
+## Technology
+
+Utilized:
+- node.js
+- npm packages (inquirer)
+
+## Link
 All answered questions will be shown under /Develop/README.md
 
 https://drive.google.com/file/d/1FO3hG_e-cpJ-9eG3UsQSfE4XAIf5hqIL/view?usp=sharing
 
-### Screenshot
+## Screenshot
 ![](images/README_VS.jpg)

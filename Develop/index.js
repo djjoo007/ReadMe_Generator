@@ -13,11 +13,13 @@ const questions = [
     type: 'input',
     name: 'description',
     message: 'Please write a short description of the project.'
-}, {
-    type: 'input',
-    name: 'table',
-    message: 'Please write the Table of Contents.'
-}, {
+}, 
+// {
+//     type: 'input',
+//     name: 'table',
+//     message: 'Please write the Table of Contents.'
+// }, 
+{
     type: 'input',
     name: 'installation',
     message: 'Please add installation instructions here.'

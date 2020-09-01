@@ -4,9 +4,6 @@ function generateMarkdown(data) {
   ### Description
   ${data.description}
 
-  ### Table Of Contents
-  ${data.table}
-
   ### Installation
   ${data.installation}
 

@@ -1,26 +1,23 @@
-# README Generator
+# Automated README.md 
   ### Description
-  Automatically creates README.md file.
-
-  ### Table Of Contents
-  info
+  This project will automate the README.md file
 
   ### Installation
-  info
+  Answer the prompted questions.
 
   ### Usage
-  info
+  Once the answers have been completed then check the README.md file.
 
   ### License
-  info
+  n/a
 
   ### Contributing
-  info
+  jooheredia
 
   ### Tests
-  info
+  tested daily
   
   ### Questions
-  info
-  info
-  info
+  n/a
+  djjoo007
+  jnoh11@msn.com

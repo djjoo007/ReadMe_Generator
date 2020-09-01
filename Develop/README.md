@@ -1,23 +1,23 @@
-# Automated README.md 
+# README Generator
   ### Description
-  This project will automate the README.md file
+  This command-line application will automatically generate a README.md file.
 
   ### Installation
-  Answer the prompted questions.
+  Utilize node.js Terminal and within the working directory, run node index.js/
 
   ### Usage
-  Once the answers have been completed then check the README.md file.
+  Once the user answers all the prompted questions, check the README.md under the Develop folder.
 
   ### License
   n/a
 
   ### Contributing
-  jooheredia
+  Joo Heredia
 
   ### Tests
   tested daily
   
   ### Questions
-  n/a
+  no questions at this time
   djjoo007
-  jnoh11@msn.com
+  jnoh@email.com

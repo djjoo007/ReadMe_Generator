@@ -20,7 +20,7 @@ Utilized:
 ## Link
 All answered questions will be shown under /Develop/README.md
 
-https://drive.google.com/file/d/1FO3hG_e-cpJ-9eG3UsQSfE4XAIf5hqIL/view?usp=sharing
+https://drive.google.com/file/d/1FO3hG_e-cpJ-9eG3UsQSfE4XAIf5hqIL/view
 
 ## Screenshot
 ![](images/README_VS.jpg)
